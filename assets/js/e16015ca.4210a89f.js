@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_website_2022=self.webpackChunkciroh_website_2022||[]).push([[9700],{5688:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
